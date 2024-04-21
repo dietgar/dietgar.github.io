@@ -261,7 +261,7 @@ body {
     color: var(--text-light);
 }
 
-.question__box title{
+.question__box .title{
     display: flex;
     align-items: center;
     justify-content: space-between;
