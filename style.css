@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 :root{
-    --primary-color: #495bfd;
-    --secondary-color: #059669;
+    --primary-color: #db7f00;
+    --secondary-color: #bbb91f;
     --background-color: #080808;
     --text-light: #cbd5e1;
     --white: #ffffff;
@@ -35,18 +35,14 @@
     text-align: center;
     background: linear-gradient(
     to right,
-    #c2b3ea,
-    #99b8f1,
-    #6abceb,
-    #41bed8,
-    #3abdbb,
-    #44c1ac,
-    #59c39a,
-    #72c486,
-    #83cd7f,
-    #96d676,
-    #acde6c,
-    #c5e562
+    #ffc424,
+    #cb8c11,
+    #e69c31,
+    #dac71c,
+    #fbff0b,
+    #b3860e,
+    #ffc424,
+    #d1be1b
   );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
